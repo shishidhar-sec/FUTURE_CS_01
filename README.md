@@ -18,4 +18,5 @@ To identify common web vulnerabilities, classify their risk, and suggest basic r
 - Google Docs / Word
 
 ## Status
-Task started
+Task 1 completed
+
